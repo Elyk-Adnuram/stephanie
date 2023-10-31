@@ -2,7 +2,7 @@ body {
   text-align: center;
   font-family: "Happy Monkey", cursive;
   background: linear-gradient(#9c528b, #ff1654, #413c58, #00916e);
-  color: #ffffff;
+  color: whitesmoke;
 }
 
 h1,
@@ -96,5 +96,3 @@ p {
 a {
   color: white;
 }
-
-
